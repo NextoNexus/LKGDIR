@@ -1,0 +1,5 @@
+Evaluation Result-------------------------->
+mean DSC: 0.7647295389961957
+std: 0.02208493079760822
+mean inference time: 4.175957704626995
+num of parameters: 393315
